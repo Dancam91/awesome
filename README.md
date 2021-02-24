@@ -1,0 +1,2 @@
+# awesome
+Awesome config files
